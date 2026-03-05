@@ -1,4 +1,4 @@
 package com.example.gitprj;
 
-public class test {
+public class Test {
 }
